@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 41.585891 41.5701"
+   width="41.585892"
+   height="41.570099"
+   version="1.1"
+   id="svg48"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title48">Recursive Record Registry — Logo — Unframed — White</title>
+  <defs
+     id="defs4" />
+  <g
+     id="g48"
+     transform="translate(0,-1122.5199)">
+    <path
+       id="path47"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.571;stroke-linecap:round"
+       d="m 10.708681,1126.2996 -6.929151,4e-4 v 3.78 l 6.929151,-6e-4 c 2.509965,-0.01 2.509965,-3.7705 0,-3.7798 z m 4.225621,5.6689 c 3.26665,-3.6523 0.674357,-9.4488 -4.225621,-9.4486 L 0,1122.52 v 18.9 h 3.77953 v -7.56 l 6.929151,-9e-4 c 1.043643,-8e-4 1.889709,0.8452 1.889732,1.8899 l -1.3e-5,13.231 h 3.7796 l -2.3e-5,-13.231 c -3.1e-5,-1.3955 -0.514003,-2.7411 -1.443675,-3.7805 z M 25.1969,1156.54 h 3.7795 l -1.1e-5,-13.2314 c -1.8e-5,-1.396 -0.51399,-2.7416 -1.443662,-3.781 3.266806,-3.6523 0.674464,-9.449 -4.225634,-9.4482 h -6.259982 c -0.201036,0.6737 -0.50841,1.3116 -0.910516,1.8891 0.402106,0.5775 0.70948,1.2154 0.910516,1.8906 h 6.259982 c 2.509979,0.01 2.509979,3.769 0,3.7798 H 17.3228 v 3.78 h 5.984293 c 1.043696,0 1.889777,0.8448 1.889782,1.8899 z m 12.5984,7.55 h 3.7795 l 2e-6,-13.2219 c -6e-6,-1.3965 -0.513978,-2.7421 -1.44365,-3.7815 3.266649,-3.6523 0.674358,-9.4488 -4.225646,-9.4477 h -6.259982 c -0.201024,0.6733 -0.508398,1.3112 -0.910504,1.8887 0.402096,0.5775 0.70947,1.2154 0.910504,1.8911 h 6.259982 c 2.519738,0 2.519738,3.7782 0,3.7797 H 29.9213 v 3.78 h 5.984206 c 1.043669,0 1.889735,0.8442 1.889782,1.8899 z" />
+  </g>
+  <metadata
+     id="metadata48">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Recursive Record Registry — Logo — Unframed — White</dc:title>
+        <dc:date>2024-07-24</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Hlusička</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
